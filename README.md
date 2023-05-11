@@ -1,4 +1,5 @@
 # PSSP
+The code is implemented using MATLAB 2020a.
 
 The CASP dataset can be downloaded from the website https://predictioncenter.org/.
 
